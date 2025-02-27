@@ -9,3 +9,5 @@ Principais Características do RAM TUBE:
 📋 Histórico de Downloads: Salve e acesse facilmente o histórico completo de todos os seus downloads.
 
 ⚙️ Interface Simples e Funcional: Mesmo sem um design sofisticado, o RAM TUBE se destaca pela sua simplicidade e eficácia, operando diretamente no terminal.
+
+Para usar, basta abrir a respectiva pasta dentro do diretório do RAMTUBE.
